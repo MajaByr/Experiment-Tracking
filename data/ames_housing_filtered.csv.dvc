@@ -1,0 +1,5 @@
+outs:
+- md5: 798de1b40214f36eb07ecd5a067b9611
+  size: 589470
+  hash: md5
+  path: ames_housing_filtered.csv
